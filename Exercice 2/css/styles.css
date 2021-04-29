@@ -1,0 +1,45 @@
+.section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section p {
+    margin: 0;
+    text-align: center;
+    font-size: 5em;
+}
+
+.menu {
+    background-color: rgb(89,149,218);
+    height: 5vh;
+}
+
+.header {
+    background-color: rgb(178,214,255);
+    height: 20vh;
+}
+
+.content  {
+    background-color: rgb(234,237,240);
+    height: 35vh;
+}
+
+.sign-up {
+    background-color: rgb(214,233,254);
+    height: 13vh;
+}
+
+.feature-1 {
+    background-color: rgb(245,207,142);
+    height: 13vh;
+}
+.feature-2 {
+    background-color: rgb(240,154,157);
+    height: 13vh;
+}
+.feature-3 {
+    background-color: rgb(200,198,250);
+    height: 13vh;
+}
